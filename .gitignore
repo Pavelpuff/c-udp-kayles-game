@@ -1,0 +1,8 @@
+*.o
+
+kayles_server
+kayles_client
+
+.DS_Store
+.idea/
+.vscode/
