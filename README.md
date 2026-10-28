@@ -1,4 +1,4 @@
-# Kayles UDP Network Game 🎳
+# Kayles UDP Network Game
 
 ![C](https://img.shields.io/badge/c-gnu11-blue.svg)
 ![Protocol](https://img.shields.io/badge/protocol-UDP%20%7C%20IPv4-lightgrey)
@@ -19,8 +19,8 @@ This project demonstrates advanced systems programming and network engineering c
 Requires a GNU11 compliant compiler and GNU Make.
 
 ```bash
-git clone https://github.com/Pavelpuff/kayles-network-game.git
-cd kayles-network-game
+git clone https://github.com/Pavelpuff/c-udp-kayles-game.git
+cd c-udp-kayles-game
 make
 ```
 This will compile two executables: `kayles_server` and `kayles_client`.
